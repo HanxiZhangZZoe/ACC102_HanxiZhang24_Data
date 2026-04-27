@@ -27,10 +27,6 @@ To ensure full reproducibility:
 3. Open `analysis.ipynb` in Jupyter environment
 4. Run all cells sequentially (data will be loaded from `/data/kpopgroups.csv`)
 
-## 6. Product Link / Demo
-**Video Demonstration:** [Insert your Mediasite video link here]
-The demo video shows the runnable core workflow and interprets the generated interactive charts.
-
-## 7. Limitations & Next Steps
+## 6. Limitations & Next Steps
 **Limitations:** The dataset relies on static historical data; it does not include financial metrics, exact disbandment dates, or real-time social media popularity.
 **Next Steps:** Future work could incorporate web scraping for real-time sentiment analysis or merge financial data to build predictive models for group profitability.
